@@ -1,0 +1,1 @@
+Optical probing from the backside of an integrated circuit (IC) is a powerful failure analysis technique but raises serious security concerns when in the hands of attackers. For instance, attacks using laser voltage probing (LVP) allow direct reading of sensitive information being stored and/or processed in the IC.
